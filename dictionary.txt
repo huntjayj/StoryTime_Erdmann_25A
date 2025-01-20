@@ -1,5 +1,25 @@
 //dictionary.txt
 //german word, definition
-Raesfeld Airport Berlin Bratwurst Main Street Bread Air Conditioning Rammstein Porsche
-BMW Beer Garden Ratskeller Dirndl Lederhosen Castle Competitive Flour Bunny Pastry
-Bakery Dog Doner Apple Pie Eltz Castle
+Raesfeld, NA
+Flughafen, Airport 
+Berlin, NA 
+Bratwurst, NA 
+Hauptstrasse, Main Street
+Brot, Bread 
+Klimaanlage, Air Conditioning
+Rammstein, NA
+Porsche, NA
+BMW, NA
+Biergarten, Beer Garden 
+Ratskeller, NA 
+Dirndl, NA
+Lederhosen, NA
+Schloss, Castle
+wettbewerbsfaehig, Competitive 
+Mehlhase
+Gebaeck, Pastry
+Baeckerei, Bakery 
+Hund, Dog
+Doener, NA
+Apfelkuchen, Apple Pie 
+Eltz, NA

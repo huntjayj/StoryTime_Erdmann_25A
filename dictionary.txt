@@ -1,25 +1,25 @@
 //dictionary.txt
 //german word, definition
-Raesfeld, NA
-Flughafen, Airport 
-Berlin, NA 
-Bratwurst, NA 
+Raesfeld, Raesfeld is a municipality is the Borken district of Germany. Has a small village and castle. 
+Flughafen, Flughafen transaltes directly to airport in english. 
+Berlin, Berlin is the capital and is the largest city in Germany.
+Bratwurst, Brawwurst is a type of german sausage.
 Hauptstrasse, Main Street
-Brot, Bread 
-Klimaanlage, Air Conditioning
-Rammstein, NA
-Porsche, NA
-BMW, NA
-Biergarten, Beer Garden 
-Ratskeller, NA 
-Dirndl, NA
-Lederhosen, NA
-Schloss, Castle
-wettbewerbsfaehig, Competitive 
-Mehlhase
-Gebaeck, Pastry
-Baeckerei, Bakery 
-Hund, Dog
-Doener, NA
-Apfelkuchen, Apple Pie 
-Eltz, NA
+Brot, Brot translates directly to bread in english. 
+Klimaanlage, Klimaanlage translates directly to Air Conditioning in english. 
+Rammstein, Rammstein is a popular German hard rock band.
+Porsche, Porsche is a German company that specializes in creating luxury, high-performance sports vehicles.
+BMW, BMW is a German company that creates luxury cars and motorcycles.
+Biergarten, Biergarten directyly translates to beer garden in english.
+Ratskeller, Ratskeller is a bar or restraunt that is in the basement or nearby a city hall.
+Dirndl, A dirndl is a feminine dress that is a folk costume. It consists of a bodice, skirt, blouse, and apron.
+Lederhosen, Lederhosen are short leather pants .
+Schloss, A schloss is a type of building similar to a palace or manor house. It could also be similar to a castle.
+wettbewerbsfaehig, wettbewerbsfaehig translates directly to competitive in english.
+Mehlhase, Mehlhase is the last name of a software engineering professor at Arizona State University. 
+Gebaeck, Gebaeck directly translates to pastry in english. 
+Baeckerei, Baeckerei directly translates to bakery in english.  
+Hund, Hund directly translates to dog in english.
+Doener, Doener is meat that was cooked on a vertical rotisserie, then shaved off and served on a bun with cabbage. 
+Apfelkuchen, Apfelkuchen is an apple cake. 
+Eltz, Eltz is a German noble family. There also have a castle in Germany called Eltz Castle. 

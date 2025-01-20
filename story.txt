@@ -1,3 +1,4 @@
 //story.txt file
 Once upon a time there was a Hund that loved Apfelkuchen. 
 One day, the Hund decided to visit the nearby Biergarten to find the finest crumbs of leftover Apfelkuchen.
+The Hund found the Apfelkuchen he was looking for, now he decided to hunt for a first-rate bratwurst.

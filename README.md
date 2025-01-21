@@ -12,4 +12,5 @@ Deliverables:
 when complete, 12 lines of story, post on slack, channel to be created soon
 
 go into at least one other teams story and add a line
+    -add your name and a link to your pull request to other stories into PullRequest.md
 vote for your favorite story of other teams by using the thumbs up reaction

@@ -7,3 +7,5 @@
 //Amanda Baker: https://github.com/nfontes263/drachenstein_icebreaker/pull/4
 
 //Isaac Cook: https://github.com/nfontes263/drachenstein_icebreaker/pull/6
+
+//Jay Hunt: https://github.com/nfontes263/drachenstein_icebreaker/pull/7
